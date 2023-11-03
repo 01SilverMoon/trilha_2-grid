@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2? family= Nunito:wght@500 & family= Work+Sans:wght@300 & display=swap');
+
+body {
+    background-color: #7600a9;
+}
+
+h1 {
+    text-align: center;
+    color: #00b380;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 60px;
+}
+
+.container {
+    padding: 25px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    row-gap: 50px;
+    column-gap: 150px;
+    margin: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #c38e19;
+}
+
+.cat {
+    margin-top: 25px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.drink {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.halloween-1 {
+    margin-top: 150px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.halloween-2 {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.place {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.tarot {
+    margin-top: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.tree-1 {
+    margin-top: 15px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.tree-2 {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.tree-3 {
+    margin-top: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.house {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
